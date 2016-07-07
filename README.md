@@ -42,7 +42,7 @@ All of the defined properties are bindable so you can easily use them in MVVM ba
 
 # Screen
 
-![](https://raw.githubusercontent.com/tkowalczyk/CustomPicker/master/screen/Screen%20Shot%202016-07-07%20at%2017.14.21.png =250x)
+![](https://raw.githubusercontent.com/tkowalczyk/CustomPicker/master/screen/screen.png =250x)
 
 # Author
 Tomasz Kowalczyk
